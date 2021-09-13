@@ -12,5 +12,8 @@
        <a href="bruh.html">
     <p>Drücke nicht hier drauf</p>
    </a>
+    <?php
+    echo "Das ist eine Nachricht von php Code aus";
+    ?>
   </body>
 </html>
